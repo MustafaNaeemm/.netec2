@@ -1,0 +1,22 @@
+D:\Internship Summer\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.deps.json
+D:\Internship Summer\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.dll
+D:\Internship Summer\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.pdb
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfoInputs.cache
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfo.cs
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.csproj.CoreCompileInputs.cache
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.dll
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\refint\ModelClass.dll
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.pdb
+D:\Internship Summer\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ref\ModelClass.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.deps.json
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\bin\Debug\net7.0\ModelClass.pdb
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\refint\ModelClass.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ModelClass.pdb
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ModelClass\obj\Debug\net7.0\ref\ModelClass.dll

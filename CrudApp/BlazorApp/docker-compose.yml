@@ -1,0 +1,27 @@
+version: '3.8'
+
+services:
+  blazorapp:
+    build:
+      context: BlazorApp # Use the current directory as the build context
+      dockerfile: Dockerfile
+    container_name: blazorapp
+    ports:
+      - "8080:5000" # Maps port 80 in the container to 8080 on the host
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=db;Database=mydb;User=sa;Password=yourStrong(!)Password;
+
+  db:
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    container_name: sqlserver
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "yourStrong(!)Password"
+      ACCEPT_EULA: "Y"
+    volumes:
+      - sql-data:/var/opt/mssql
+
+volumes:
+  sql-data:

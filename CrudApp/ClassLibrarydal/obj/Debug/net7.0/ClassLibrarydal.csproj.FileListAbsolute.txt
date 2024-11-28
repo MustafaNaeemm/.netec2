@@ -1,0 +1,30 @@
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ClassLibrarydal.deps.json
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ClassLibrarydal.dll
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ClassLibrarydal.pdb
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ModelClass.dll
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ModelClass.pdb
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.csproj.AssemblyReference.cache
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.AssemblyInfoInputs.cache
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.AssemblyInfo.cs
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.csproj.CoreCompileInputs.cache
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLib.D44675FC.Up2Date
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.dll
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\refint\ClassLibrarydal.dll
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.pdb
+D:\Internship Summer\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ref\ClassLibrarydal.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ClassLibrarydal.deps.json
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ClassLibrarydal.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ClassLibrarydal.pdb
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ModelClass.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\bin\Debug\net7.0\ModelClass.pdb
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLib.D44675FC.Up2Date
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\refint\ClassLibrarydal.dll
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ClassLibrarydal.pdb
+C:\Users\user\OneDrive\Desktop\Internship\Internship\CrudApp\ClassLibrarydal\obj\Debug\net7.0\ref\ClassLibrarydal.dll
